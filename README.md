@@ -1,1 +1,1 @@
-#>> Emotion recognition project using audio files
+# Emotion recognition project using audio files
